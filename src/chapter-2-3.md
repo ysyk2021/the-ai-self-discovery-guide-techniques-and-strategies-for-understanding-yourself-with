@@ -1,5 +1,3 @@
-How Machine Learning Works in Self-Discovery
-=========================================================================================================
 
 Machine learning has transformed self-discovery by providing new ways to analyze and interpret personal data. In this chapter, we will explore how machine learning works in self-discovery.
 

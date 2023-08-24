@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-================================================================================================
 
 Machine learning in self-discovery can provide valuable insights into personal data, but it is essential to ensure that the algorithms used are transparent and accountable. In this chapter, we will explore strategies for managing machine learning in self-discovery to ensure transparency and accountability.
 

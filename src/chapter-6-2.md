@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-===========================================================================================
 
 Resistance to change is a common issue when implementing new technology, and it can be a significant challenge when implementing machine learning in self-discovery. In this chapter, we will explore strategies for overcoming resistance to change when implementing machine learning in self-discovery.
 

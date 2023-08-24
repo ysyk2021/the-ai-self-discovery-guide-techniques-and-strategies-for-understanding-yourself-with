@@ -1,5 +1,3 @@
-Types of Machine Learning in Self-Discovery
-========================================================================================================
 
 Machine learning has transformed self-discovery by providing new ways to analyze and interpret personal data. In this chapter, we will explore the types of machine learning used in self-discovery.
 

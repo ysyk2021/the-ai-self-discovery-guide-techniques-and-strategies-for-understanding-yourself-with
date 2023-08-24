@@ -1,5 +1,3 @@
-Personal Goal Setting and Achievement
-====================================================================================================
 
 Machine learning can be an effective tool for setting and achieving personal goals. In this chapter, we will explore the applications of machine learning in self-discovery related to personal goal setting and achievement.
 

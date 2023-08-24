@@ -1,5 +1,3 @@
-Data Management
-=======================================================================
 
 Effective data management is a critical component of managing machine learning in self-discovery. In this chapter, we will explore strategies for effectively managing data when using machine learning for self-discovery.
 

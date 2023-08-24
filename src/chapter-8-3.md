@@ -1,5 +1,3 @@
-Preparing for the Future
-=================================================================================
 
 As machine learning continues to evolve, the future of self-discovery using this technology is full of potential. In this chapter, we will explore the future of machine learning in self-discovery and strategies for preparing for what's to come.
 
