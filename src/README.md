@@ -10,3 +10,7 @@ Throughout the book, we'll emphasize the importance of ethical considerations wh
 In short, "The AI Self-Discovery Guide" is a comprehensive guidebook for anyone interested in using machine learning to enhance their personal growth and development. Whether you're a student, entrepreneur, or working professional, this book will provide you with the knowledge and tools you need to thrive in the rapidly evolving world of AI and self-discovery.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
