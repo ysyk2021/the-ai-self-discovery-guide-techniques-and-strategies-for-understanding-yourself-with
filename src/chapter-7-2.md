@@ -1,5 +1,4 @@
-Chapter: Ensuring Transparency and Accountability
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ensuring transparency and accountability is crucial when utilizing AI and machine learning techniques for self-discovery. This chapter explores various strategies and practices to promote transparency, explainability, and ethical accountability in the context of self-discovery with AI.
 

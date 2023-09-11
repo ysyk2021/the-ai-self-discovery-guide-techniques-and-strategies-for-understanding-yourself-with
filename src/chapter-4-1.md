@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the AI self-discovery journey, ethical considerations play a crucial role in ensuring responsible and meaningful use of machine learning techniques. This chapter explores the ethical considerations that individuals need to be aware of when leveraging AI for self-discovery and provides strategies for making ethical decisions throughout the process.
 

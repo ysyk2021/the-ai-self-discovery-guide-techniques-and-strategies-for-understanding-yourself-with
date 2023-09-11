@@ -1,5 +1,4 @@
-Chapter: Data Management
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective data management is crucial for utilizing machine learning techniques to gain self-discovery insights. This chapter explores various strategies and techniques for managing data in the context of self-discovery with machine learning.
 

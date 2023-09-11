@@ -1,5 +1,4 @@
-Chapter: Career Exploration and Planning
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning techniques can assist individuals in career exploration and planning, providing personalized insights into their strengths, interests, and values. This chapter explores various strategies and techniques for using machine learning in career exploration and planning.
 

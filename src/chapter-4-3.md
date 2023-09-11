@@ -1,5 +1,4 @@
-Chapter: Privacy and Security Concerns
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating AI techniques for self-discovery requires careful consideration of privacy and security concerns. This chapter addresses the challenges and provides strategies to ensure the protection of personal information throughout the process of understanding oneself with machine learning.
 

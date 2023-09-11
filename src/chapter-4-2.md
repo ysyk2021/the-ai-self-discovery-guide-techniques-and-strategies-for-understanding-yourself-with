@@ -1,5 +1,4 @@
-Chapter: Legal Considerations
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating machine learning techniques into self-discovery comes with legal responsibilities. This chapter explores important legal considerations to ensure compliance and protect the rights of individuals while leveraging AI for a better understanding of oneself.
 

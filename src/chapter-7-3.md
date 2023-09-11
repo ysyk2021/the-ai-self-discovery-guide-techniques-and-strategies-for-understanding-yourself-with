@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Bias
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Addressing potential bias is essential when using AI and machine learning techniques for self-discovery. This chapter explores various strategies and approaches to identify, understand, and mitigate biases that may arise in the context of self-discovery with AI.
 

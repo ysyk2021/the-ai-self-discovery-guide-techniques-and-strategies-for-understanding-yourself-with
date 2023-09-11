@@ -1,5 +1,4 @@
-Chapter: Overcoming Resistance to Change
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the AI self-discovery journey, individuals often encounter resistance to change. This chapter explores various techniques and strategies for overcoming resistance and embracing personal growth with the help of machine learning.
 

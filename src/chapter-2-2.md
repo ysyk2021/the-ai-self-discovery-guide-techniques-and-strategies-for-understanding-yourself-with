@@ -1,5 +1,4 @@
-Chapter: Types of Machine Learning in Self-Discovery
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning techniques play a vital role in self-discovery, enabling individuals to gain insights and understand themselves better. This chapter explores different types of machine learning approaches commonly used in the context of self-discovery.
 

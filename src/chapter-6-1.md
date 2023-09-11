@@ -1,5 +1,4 @@
-Chapter: Developing a Machine Learning Strategy
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Developing a machine learning strategy is essential for successful implementation of AI techniques in self-discovery. This chapter explores the key components and steps involved in creating an effective machine learning strategy that aligns with your self-discovery goals.
 
